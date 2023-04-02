@@ -1,0 +1,118 @@
+
+.top
+{
+    display: flex;
+    flex-wrap:nowrap;
+    justify-content: end;
+   
+}
+.bt
+{
+    background-color: transparent;
+    border-width: 0px;
+}
+.bento
+{
+   width: 30px;
+   height: 30px;
+   margin-right: 10px;
+}
+.bento:hover
+{
+ background-color: lightgray;   
+}
+.ct1
+{
+    padding-right: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    padding-top: 13px;
+    text-decoration: none;
+    
+}
+.ct1:hover
+{
+    text-decoration: underline;
+}
+.ct2:hover
+{
+    text-decoration: underline;
+}
+.ct2
+{
+    padding-right: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    padding-top: 13px;
+    text-decoration: none;
+    
+    
+}
+.profile
+{
+    width: 40px;
+    height: 40px;
+}
+.bt2
+{
+    background-color: transparent;
+    border-width: 0px;
+    
+}
+.profile
+{
+    border-radius: 20px;
+}
+.logoarea
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+    margin-bottom: 15px;
+    
+    
+}
+.search
+{
+    display: flex;
+    justify-content: center;
+    
+
+}
+.searchbar
+{
+    width: 550px;
+    height: 48.6px;
+    border-radius: 24.3px;
+    border-width: 0;
+    outline: 0;
+
+}
+.icon
+{
+    width: 20.6px;
+    height: 20.6px;
+    padding: 15px;
+
+}
+.bar
+{
+    border: solid black;
+    border-radius: 24.3px;
+    height: 50px;
+    display: flex;
+    width: 584px;
+    border-width: 0.1px;
+}
+.voices
+{
+ background-color: transparent;
+ border: 0;
+ padding-right: 15px;
+}
+.vsearch
+{
+    width: 30px;
+    height: 30px;
+
+}
