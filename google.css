@@ -1,0 +1,217 @@
+
+
+.top
+{
+    display: flex;
+    flex-wrap:nowrap;
+    justify-content: end;
+   
+}
+.bt
+{
+    background-color: transparent;
+    border-width: 0px;
+}
+.bento
+{
+   width: 30px;
+   height: 30px;
+   margin-right: 10px;
+}
+.bento:hover
+{
+ background-color: lightgray;   
+}
+.ct1
+{
+    padding-right: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    padding-top: 13px;
+    text-decoration: none;
+    
+}
+.ct1:hover
+{
+    text-decoration: underline;
+}
+.ct2:hover
+{
+    text-decoration: underline;
+}
+.ct2
+{
+    padding-right: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    padding-top: 13px;
+    text-decoration: none;
+    
+    
+}
+.profile
+{
+    width: 40px;
+    height: 40px;
+}
+.bt2
+{
+    background-color: transparent;
+    border-width: 0px;
+    
+}
+.profile
+{
+    border-radius: 20px;
+}
+.logoarea
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+    margin-bottom: 25px;
+    
+
+    
+    
+}
+.search
+{
+    display: flex;
+    justify-content: center;
+}
+.searchbar
+{
+    width: 550px;
+    height: 48.6px;
+    border-radius: 24.3px;
+    border-width: 0px;
+    outline: 0;
+    
+
+}
+.icon
+{
+    width: 20.6px;
+    height: 20.6px;
+    padding: 15px;
+
+}
+.bar
+{
+    border: solid lightgray;
+    border-radius: 24.3px;
+    height: 50px;
+    display: flex;
+    width: 584px;
+    border-width: 1px;
+}
+.voices
+{
+ background-color: transparent;
+ border: 0;
+ padding-right: 15px;
+}
+.vsearch
+{
+    width: 30px;
+    height: 30px;
+
+}
+.sr
+{
+    width: 142.1px;
+    height: 36px;
+    border-width: 0px;
+    border-radius: 5px;
+    outline: 0px;
+
+}
+.lucky
+{
+    width: 142.1px;
+    height: 36px;
+    border-width: 0px;
+    border-radius: 5px;
+
+
+}
+.sr:hover, .lucky:hover
+{
+    background-color: rgba(128, 128, 128, 0.41);
+}
+.bt3
+{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+#lange
+{
+    color: blue;
+    margin-right: 5px;
+}
+#lange:hover
+{
+    text-decoration: underline;
+}
+.lang
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: small;
+    margin-bottom: 195px;
+   
+}
+txt
+{
+    font-family: arial,sans-serif;
+}
+.india
+{
+    display: flex;
+    background-color: rgb(242,242,242);
+    width: 1445px;
+    margin: 0px;
+    height: 47.6px;
+    align-items: center;
+    padding-left: 25px;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    color: rgb(110, 110, 110);
+}
+.ad 
+{
+    border-top: solid lightgray 1px;
+    display: flex;
+    background-color: rgb(242,242,242);
+    width: 1435px;
+    margin: 0px;
+    height: 47.6px;   
+    align-items: center;
+    gap: 850px;
+    padding-left: 35px;
+    font-family: arial,sans-serif;
+    overflow-x: hidden;
+    font-size: 14px;
+    color: rgb(110, 110, 110);
+    flex-wrap: wrap;
+
+}
+.ad1
+{
+    display: flex;
+    gap: 25px;
+    
+}
+.ad2
+{
+    display: flex;
+    gap: 20px;
+}
+.adin:hover, .adin2:hover
+{
+    text-decoration: underline;
+}
